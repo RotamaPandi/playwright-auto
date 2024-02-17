@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "For beginer UI automation using playwright with javascript",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "playwright test"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
