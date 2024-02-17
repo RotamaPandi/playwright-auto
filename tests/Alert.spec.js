@@ -11,6 +11,7 @@ test.skip('Alert with ok', async ({page})=>{
         await dialog.accept();
     })
 
+    //waiting element btn is enable
     await page.click("//button[normalize-space()='Alert']");
     await page.waitForTimeout(5000);
 });
