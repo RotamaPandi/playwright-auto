@@ -1,0 +1,14 @@
+{
+  "name": "playwright-auto",
+  "version": "1.0.0",
+  "description": "For beginer UI automation using playwright with javascript",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.41.2",
+    "@types/node": "^20.11.19"
+  }
+}
