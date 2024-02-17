@@ -3,8 +3,6 @@
 
 Get started by installing Playwright using npm or yarn
 
-//npm
 npm init playwright@latest
 
-//yarn
 yarn create playwright
